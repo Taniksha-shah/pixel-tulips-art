@@ -29,9 +29,9 @@ The twinkling stars create a soft flickering effect, adding charm to the scene.
 2. Open `pixeltulips.html` in a browser.  
 
 ## 🛠️ Customization  
-- Modify **colors** in `styles.css` to adjust the tulip and background colors.  
+- Modify **colors** in `pixeltulips.css` to adjust the tulip and background colors.  
 - Change **animation speed** in `@keyframes twinkle` to control the twinkling effect.  
-- Add **more stars** by duplicating `.star` elements in `index.html`.  
+- Add **more stars** by duplicating `.star` elements in `pixeltulips.html`.  
 
 ## 📜 License  
 This project is free to use and modify. Enjoy creating pixel art with **Flexbox**! 🌷✨  
